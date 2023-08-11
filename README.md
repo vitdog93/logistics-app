@@ -1,5 +1,11 @@
-# next-js-13-app-router-mongodb-rego-login-example
+## Getting Started
 
-Next.js 13 + App Router + MongoDB - User Rego and Login Tutorial with Example
+First, run the development server:
 
-Documentation at https://jasonwatmore.com/next-js-13-app-router-mongodb-user-rego-and-login-tutorial-with-example
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+```
